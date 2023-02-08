@@ -3,6 +3,7 @@
 import os
 
 # All student details list
+# Three data sets have been added as demo data
 studentDetailsList = [["S001","S002","S003"],["Lahiru","Rashmitha","Kamal"],[-1,50,60],[-1,70,90]]
 """ 
 [0] = Student ID
