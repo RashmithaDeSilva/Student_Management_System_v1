@@ -1,4 +1,4 @@
-# CMJD_CW_1_Fundamentals
+# CMJD CW 1 Fundamentals
 Included in this CW is CMJD CW 1 which is done to practice the fundamental part well.  
 This is the same cw from other programming languages that I know, 
 and those programming languages are trained.  
